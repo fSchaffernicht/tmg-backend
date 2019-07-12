@@ -1,0 +1,18 @@
+{
+  "name": "tmg-backend",
+  "version": "1.0.0",
+  "description": "backend for site a-grab-of-sky",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Felix Schaffernicht",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "monk": "^7.0.0",
+    "nodemon": "^1.19.1"
+  }
+}
